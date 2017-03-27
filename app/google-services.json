@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "894133928749",
+    "firebase_url": "https://instantchats.firebaseio.com",
+    "project_id": "instantchats",
+    "storage_bucket": "instantchats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894133928749:android:fd4f7d8076b973e6",
+        "android_client_info": {
+          "package_name": "com.example.olga.testchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894133928749-5r0tib7p89sa2v3tpu1o3mcnvjnbjia7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olga.testchatapp",
+            "certificate_hash": "488397388767193b75b720dc664a4c1acaffda0f"
+          }
+        },
+        {
+          "client_id": "894133928749-43jfkpshei5781r85oopm5remkhpvim7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTg2daddxpgoH3hft3x2nt-o4Pl-syTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894133928749-43jfkpshei5781r85oopm5remkhpvim7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
